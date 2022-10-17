@@ -13,5 +13,4 @@ hello!
 hello! third!
 hello! third!
 hello! third! test!
-
-hello! hot-fix!
+hello! third! hot-fix
